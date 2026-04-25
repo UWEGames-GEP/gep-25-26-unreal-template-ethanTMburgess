@@ -72,3 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+GEP_Template/Build/Windows/FileOpenOrder/CookerOpenOrder.log
+GEP_Template/Build/Windows/FileOpenOrder/EditorOpenOrder.log
