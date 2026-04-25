@@ -74,3 +74,4 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 GEP_Template/Build/Windows/FileOpenOrder/CookerOpenOrder.log
 GEP_Template/Build/Windows/FileOpenOrder/EditorOpenOrder.log
+*.log
